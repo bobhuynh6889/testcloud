@@ -1,0 +1,8 @@
+const Routes = {
+  SPLASH_SCREEN: 'SPLASH_SCREEN',
+  PERSONAL_INFO: 'PERSONAL_INFO',
+  HOME_SCREEN: 'HOME_SCREEN',
+  ADD_POST_SCREEN: 'ADD_POST_SCREEN',
+};
+
+export default Routes;
